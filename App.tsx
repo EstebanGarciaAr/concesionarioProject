@@ -6,7 +6,7 @@ import VehicleList from "./src/components/VehicleList";
 import VehicleSearch from "./src/components/VehicleSearch";
 //import de esteban
 //import DrivingTest from "./src/components/DrivingTest";
-//import VehicleList from "./src/components/VehicleList";
+import VehicleList from "./src/components/VehicleList";
 //import VehicleSearch from "./src/components/VehicleSearch";
 //import de luisa 
 //import Price from './src/components/Price';
@@ -23,11 +23,15 @@ export const App =() => {
     //<Logo/>
     //<DrivingTest/>
     //<VehicleSearch/>
+<<<<<<< Updated upstream
     <SafeAreaProvider>
     <VehicleList/>
     </SafeAreaProvider>
 
    // <VehicleList/>
+=======
+    <VehicleList/>
+>>>>>>> Stashed changes
    //luisa
    //<StartUp />
    //<Price/>
